@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:josephsbeiti@gmail.com?subject=Opportunity%20for%20Joseph"><img src="https://img.shields.io/badge/Email%20me-josephsbeiti%40gmail.com-006039?style=for-the-badge" alt="Email me"></a>
-  <a href="https://www.linkedin.com/in/joseph-amir-sbeiti/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/joseph-sbeiti/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="Joseph-Sbeiti-CV.pdf"><img src="https://img.shields.io/badge/CV-Download-0E0F0E?style=for-the-badge" alt="Download CV"></a>
   <a href="https://josephsbeiti.github.io"><img src="https://img.shields.io/badge/Website-Visit-A37E2C?style=for-the-badge" alt="Website"></a>
 </p>
