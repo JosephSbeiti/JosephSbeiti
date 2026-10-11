@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="mailto:josephsbeiti@gmail.com?subject=Opportunity%20for%20Joseph"><img src="header.svg" alt="Joseph Amir Sbeiti · AI & Data · Digital Transformation · Let's talk" width="100%"></a>
+  <a href="mailto:josephsbeiti@gmail.com?subject=Opportunity%20for%20Joseph"><img src="header.svg" alt="Joseph Sbeiti · AI & Data · Digital Transformation · Let's talk" width="100%"></a>
 </p>
 
 <h3 align="center">Hiring for AI strategy, AI transformation or technology roles? Let's talk.</h3>

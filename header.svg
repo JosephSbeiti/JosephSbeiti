@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Joseph Amir Sbeiti · AI and Data · Digital Transformation · Open to roles abroad from 2027 · Let's talk">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Joseph Sbeiti · AI and Data · Digital Transformation · Open to roles abroad from 2027 · Let's talk">
 <defs>
   <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#004D2E"/><stop offset=".42" stop-color="#004D2E" stop-opacity="0"/></linearGradient>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00432A"/><stop offset=".55" stop-color="#006039"/><stop offset="1" stop-color="#00502F"/></linearGradient>
@@ -55,7 +55,7 @@
   <rect x="58" y="44" width="276" height="32" rx="16" fill="#FFFFFF" fill-opacity=".12" stroke="#FFFFFF" stroke-opacity=".25"/>
   <circle class="dotp" cx="78" cy="60" r="5" fill="#8FD3AE"/>
   <text x="91" y="65" class="pill">Open to roles abroad · 2027</text>
-  <g class="rev"><text x="56" y="148" class="name">Joseph Amir Sbeiti</text></g>
+  <g class="rev"><text x="56" y="148" class="name">Joseph Sbeiti</text></g>
   <rect class="uline" x="60" y="168" width="78" height="3" fill="#E2B65A"/>
   <text x="60" y="205" class="sub t t1">AI &amp; Data enthusiast</text>
   <text x="60" y="205" class="sub t t2">Digital transformation specialist</text>
