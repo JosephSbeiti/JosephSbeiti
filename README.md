@@ -27,7 +27,7 @@ Today, the chances you get in life still depend on where you were born. I believ
 
 | Project | What it is | Built with |
 |---|---|---|
-| [**MegaMind**](https://github.com/JosephSbeiti/MegaMind) | A sovereign AI reasoning core, built from scratch. It persists knowledge, learns from experience and forms concepts. Now at v0.5.1, working on generalisation. | Python |
+| [**MegaMind**](https://github.com/JosephSbeiti/MegaMind) | A sovereign AI brain, built from scratch. It drives a small robot that sees, understands commands in English, French and Arabic, and learns in a digital twin before the real world. | Python · NumPy |
 | [**Energy development profiles**](https://github.com/JosephSbeiti/energy-development-profiles) | Which countries share the same energy profile, and how closely does electricity follow wealth? 164 countries, 4 profiles, R² 0.83. | Python · pandas · scikit-learn |
 | [**josephsbeiti.github.io**](https://josephsbeiti.github.io) | My interactive site: vision, journey, lab and toolkit. | HTML · CSS · JavaScript |
 
