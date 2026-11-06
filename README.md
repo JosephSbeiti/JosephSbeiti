@@ -20,7 +20,7 @@ Today, the chances you get in life still depend on where you were born. I believ
 
 ### Now
 
-**Strategy Consultant in Digital Transformation** at Devoteam Digital Impulse, for Safran. Prioritising AI use cases, building AI agents and agentic workflows, and acting as the team's PMO.
+**Strategy Consultant in Digital Transformation** at Devoteam Digital Impulse, for Safran. Framing the IT department's 2030 transformation programme, co-leading the delivery of AI agents and agentic workflows with engineers, and acting as the team's PMO.
 
 
 ### Lab
@@ -42,7 +42,7 @@ Today, the chances you get in life still depend on where you were born. I believ
 | 2025 – 2026 | MSc International Business, focused on AI & Data · NC State University / SKEMA, Raleigh |
 | 2025 | Key Account Manager Assistant · SITA, aviation technology |
 | 2023 | Sales Advisor · Louis Vuitton, Maison Vendôme |
-| 2021 – 2025 | BBA in Global Management · SKEMA Business School · President of the 2025 class |
+| 2021 – 2025 | BBA in Global Management · SKEMA Business School · Promotion President, class of 2025 |
 
 </details>
 
@@ -52,9 +52,9 @@ Today, the chances you get in life still depend on where you were born. I believ
 
 **Strategy** · AI business strategy · AI use-case prioritisation · Value measurement & ROI · Market & stakeholder analysis · Research
 
-**AI, Data & Tools** · AI agents & agentic workflows · Prompt engineering & LLMs · Generative AI (certified) · Responsible AI · Python · K-means clustering · Linear regression · pandas
+**AI, Data & Tools** · AI agents & agentic workflows · Prompt engineering & LLMs · Generative AI (certified) · Responsible AI · Python · Power BI · Power Automate · K-means clustering · Linear regression · pandas
 
-**Delivery** · PMO · Project management · Process & workflow redesign · Change & AI enablement · Executive reporting
+**Delivery** · PMO · Project management · Jira · Process & workflow redesign · Change & AI enablement · Executive reporting
 
 **People** · Stakeholder management · Cross-functional collaboration · Client relationships · Key account management · English · French · Arabic
 
