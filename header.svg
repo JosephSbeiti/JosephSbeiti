@@ -43,7 +43,7 @@
   <circle class="wave" cx="915" cy="145" r="90" style="animation-delay:.5s"/>
   <g class="cta">
     <rect x="755.0" y="75.0" width="320" height="140" rx="18" fill="#fff" stroke="#006039" stroke-width="1.5" filter="url(#sh)"/>
-    <text x="915" y="115.0" text-anchor="middle" class="q">Hiring in AI &amp; transformation?</text>
+    <text x="915" y="115.0" text-anchor="middle" class="q">Where business meets technology?</text>
     <text x="915" y="139.0" text-anchor="middle" class="q2">Let's build what's next, together.</text>
     <rect class="halo" x="833" y="157.0" width="164" height="40" rx="20"/>
     <rect x="833" y="157.0" width="164" height="40" rx="20" fill="#006039"/>
@@ -52,12 +52,12 @@
   </g>
   <rect width="620" height="300" fill="url(#fade)"/>
   <rect x="0" y="292" width="1200" height="8" fill="#A37E2C"/>
-  <rect x="58" y="44" width="276" height="32" rx="16" fill="#FFFFFF" fill-opacity=".12" stroke="#FFFFFF" stroke-opacity=".25"/>
+  <rect x="58" y="44" width="318" height="32" rx="16" fill="#FFFFFF" fill-opacity=".12" stroke="#FFFFFF" stroke-opacity=".25"/>
   <circle class="dotp" cx="78" cy="60" r="5" fill="#8FD3AE"/>
-  <text x="91" y="65" class="pill">Open to roles abroad · 2027</text>
+  <text x="91" y="65" class="pill">Available from 2027 · open to relocation</text>
   <g class="rev"><text x="56" y="148" class="name">Joseph Sbeiti</text></g>
   <rect class="uline" x="60" y="168" width="78" height="3" fill="#E2B65A"/>
-  <text x="60" y="205" class="sub t t1">AI &amp; Data enthusiast</text>
+  <text x="60" y="205" class="sub t t1">AI · product · strategy · operations</text>
   <text x="60" y="205" class="sub t t2">Digital transformation specialist</text>
   <text x="60" y="205" class="sub t t3">English · French · Arabic</text>
   <text x="60" y="242" class="mis">Helping organisations and regions own their</text>

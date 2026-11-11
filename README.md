@@ -2,8 +2,8 @@
   <a href="mailto:josephsbeiti@gmail.com?subject=Opportunity%20for%20Joseph"><img src="header.svg" alt="Joseph Sbeiti · AI & Data · Digital Transformation · Let's talk" width="100%"></a>
 </p>
 
-<h3 align="center">Hiring for AI strategy, AI transformation or technology roles? Let's talk.</h3>
-<p align="center">Available from early 2027 · Open to relocation · English, French, Arabic</p>
+<h3 align="center">Any industry where business meets technology and the future is being shaped: AI, product, strategy, operations.</h3>
+<p align="center">Graduate programmes &amp; junior roles · Available from 2027 · Open to relocation · English, French, Arabic</p>
 
 <p align="center">
   <a href="mailto:josephsbeiti@gmail.com?subject=Opportunity%20for%20Joseph"><img src="https://img.shields.io/badge/Email%20me-josephsbeiti%40gmail.com-006039?style=for-the-badge" alt="Email me"></a>
@@ -20,7 +20,7 @@ Today, the chances you get in life still depend on where you were born. I believ
 
 ### Now
 
-**Strategy Consultant in Digital Transformation** at Devoteam Digital Impulse, for Safran. Framing the IT department's 2030 transformation programme, co-leading the delivery of AI agents and agentic workflows with engineers, and acting as the team's PMO.
+**Strategy Consultant in Digital Transformation** at Devoteam Digital Impulse, for Safran. Framing the IT department's 2030 transformation programme with a director, co-designing and co-leading the delivery of 3 AI agents and agentic workflows with engineers, and acting as PMO lead.
 
 
 ### Lab
@@ -29,7 +29,7 @@ Today, the chances you get in life still depend on where you were born. I believ
 |---|---|---|
 | [**MegaMind**](https://github.com/JosephSbeiti/MegaMind) | A sovereign AI brain, built from scratch. It drives a small robot that sees, understands commands in English, French and Arabic, and learns in a digital twin before the real world. | Python · NumPy |
 | [**Energy development profiles**](https://github.com/JosephSbeiti/energy-development-profiles) | Which countries share the same energy profile, and how closely does electricity follow wealth? 164 countries, 4 profiles, R² 0.83. | Python · pandas · scikit-learn |
-| [**josephsbeiti.github.io**](https://josephsbeiti.github.io) | My interactive site: vision, journey, lab and toolkit. | HTML · CSS · JavaScript |
+| [**josephsbeiti.github.io**](https://josephsbeiti.github.io) | My interactive site: purpose, journey, MegaMind HQ and lab. | HTML · CSS · JavaScript |
 
 <details>
 <summary><b>Journey</b></summary>
@@ -39,8 +39,8 @@ Today, the chances you get in life still depend on where you were born. I believ
 |---|---|
 | 2026 – now | Strategy Consultant in Digital Transformation · Devoteam Digital Impulse, for Safran |
 | 2026 | Master's thesis · Digital transformation for sustainable development in the Global South |
-| 2025 – 2026 | MSc International Business, focused on AI & Data · NC State University / SKEMA, Raleigh |
-| 2025 | Key Account Manager Assistant · SITA, aviation technology |
+| 2025 – 2026 | MSc International Business, AI & Data Analytics · NC State University / SKEMA, Raleigh |
+| 2025 | Key Account Manager Assistant · SITA Aero, aviation technology |
 | 2023 | Sales Advisor · Louis Vuitton, Maison Vendôme |
 | 2021 – 2025 | BBA in Global Management · SKEMA Business School · Promotion President, class of 2025 |
 
@@ -52,9 +52,9 @@ Today, the chances you get in life still depend on where you were born. I believ
 
 **Strategy** · AI business strategy · AI use-case prioritisation · Value measurement & ROI · Market & stakeholder analysis · Research
 
-**AI, Data & Tools** · AI agents & agentic workflows · Prompt engineering & LLMs · Generative AI (certified) · Responsible AI · Python · Power BI · Power Automate · K-means clustering · Linear regression · pandas
+**AI, Data & Tools** · AI agents & agentic workflows · Prompt engineering & LLMs · Generative AI (certified) · Google Cloud AI infrastructure · CI/CD for multi-agent systems · Responsible AI · Python · Excel & VBA · Power BI · Power Automate · K-means clustering · Linear regression · pandas
 
-**Delivery** · PMO · Project management · Jira · Process & workflow redesign · Change & AI enablement · Executive reporting
+**Delivery** · PMO · Project management · Process & workflow redesign · Change & AI enablement · Executive reporting
 
 **People** · Stakeholder management · Cross-functional collaboration · Client relationships · Key account management · English · French · Arabic
 
